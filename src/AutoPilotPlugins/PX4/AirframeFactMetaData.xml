@@ -449,11 +449,16 @@
       <output name="MAIN4">yaw servo</output>
     </airframe>
   </airframe_group>
-  <airframe_group image="FlyingRover" name="Tricopter Flying Rover">
-    <airframe id="60000" maintainer="Cloudkernel Technologies, cloudkerneltech@gmail.com" name="Tricopter Flying Rover">
+  <airframe_group image="FlyingRover" name="Flying Rover">
+    <airframe id="60000" maintainer="Cloudkernel Technologies &lt;cloudkerneltech@gmail.com&gt;" name="Tricopter Flying Rover">
       <class>FlyingRover</class>
-      <maintainer>Cloudkernel Technologies, cloudkerneltech@gmail.com</maintainer>
-      <type>Tricopter Flying Rover</type>
+      <maintainer>Cloudkernel Technologies &lt;cloudkerneltech@gmail.com&gt;</maintainer>
+      <type>Flying Rover</type>
+    </airframe>
+    <airframe id="60001" maintainer="Cloudkernel Technologies &lt;cloudkerneltech@gmail.com&gt;" name="Quadcopter Flying Rover">
+      <class>FlyingRover</class>
+      <maintainer>Cloudkernel Technologies &lt;cloudkerneltech@gmail.com&gt;</maintainer>
+      <type>Flying Rover</type>
     </airframe>
   </airframe_group>
   <airframe_group image="FlyingWing" name="Flying Wing">
